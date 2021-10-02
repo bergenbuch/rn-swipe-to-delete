@@ -6,7 +6,7 @@ To lunch the demo please do the following steps:
 
 ```.sh
 cd ./demo
-npm npm install
+npm install
 npx pod-install # for ios only
 npx react-native run-ios # for ios
 npx react-native run-android # for android
